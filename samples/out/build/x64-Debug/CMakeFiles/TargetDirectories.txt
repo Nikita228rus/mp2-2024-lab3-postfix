@@ -1,0 +1,3 @@
+C:/Users/nikfo/source/repos/mp2-2024-lab3-postfix/samples/out/build/x64-Debug/CMakeFiles/postfix.dir
+C:/Users/nikfo/source/repos/mp2-2024-lab3-postfix/samples/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/nikfo/source/repos/mp2-2024-lab3-postfix/samples/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
